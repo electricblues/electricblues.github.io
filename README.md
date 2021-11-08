@@ -6,7 +6,4 @@
 
 - Was created using HTML, CSS, Command Line Interface, Git, and GitHub.
 
-## Set up
 
-1.Clone the repository
-2.In the project folder, run `node runme.js`
